@@ -2,23 +2,23 @@
 
 ## 👩🏻‍💻 My repositories
 
-### 🚀 side projects
+### 🚀 Side projects
 
-**blog**
+#### Blog
 
 - [super-blog-content](https://github.com/giuliachiola/super-blog-content)
 
 <!-- 
-**other**
+#### Other
 
-### 🛁 boilerplates
+### 🛁 Boilerplates
 
-### 🛠 tools
+### 🛠 Tools
 
-### 🍴 forked
+### 🍴 Forked
 -->
 
-### 📒 learning from tutorials
+### 📒 Learning from tutorials
 
 #### VueJS
 
