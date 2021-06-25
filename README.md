@@ -20,6 +20,10 @@
 
 ### 📒 learning from tutorials
 
+#### VueJS
+
+##### Nuxt
+
 - [itunes-nuxt](https://github.com/giuliachiola/itunes-nuxt)
 
 <!--
