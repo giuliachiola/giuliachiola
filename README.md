@@ -7,7 +7,7 @@
 #### Blog
 
 - [super-blog-content](https://github.com/giuliachiola/super-blog-content)
-
+- [super-notes](https://github.com/giuliachiola/super-notes) 
 <!-- 
 #### Other
 
