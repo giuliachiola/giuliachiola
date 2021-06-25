@@ -14,9 +14,13 @@
 ### 🛁 Boilerplates
 
 ### 🛠 Tools
+-->
 
 ### 🍴 Forked
--->
+
+- [eleventy-plugin-social-images](https://github.com/giuliachiola/eleventy-plugin-social-images) 
+- [ohmyzsh](https://github.com/giuliachiola/ohmyzsh)
+- [vue-storefront](https://github.com/giuliachiola/vue-storefront)
 
 ### 📒 Learning from tutorials
 
