@@ -1,10 +1,10 @@
 # Hey! Welcome to my GitHub 👋
 
-## 👩🏻‍💻 My repositories
+# 👩🏻‍💻 My repositories
 
-### 🚀 Side projects
+## 🚀 Side projects
 
-#### Blog
+### Blog
 
 - [super-blog-content](https://github.com/giuliachiola/super-blog-content)
 - (private) [super-notes](https://github.com/giuliachiola/super-notes) 
@@ -12,38 +12,34 @@
 #### Other
 -->
 
----
 
-### 🛁 Boilerplates
+## 🛁 Boilerplates
 
-#### 11ty
+### 11ty
 
 - (private) [eleventy-styleguide](https://github.com/giuliachiola/eleventy-styleguide)
 
-#### Pattern Lab
+### Pattern Lab
 
 - (private) [patternlab-boilerplate](https://github.com/giuliachiola/patternlab-boilerplate)
 - (private) [patternlab-default-components](https://github.com/giuliachiola/patternlab-default-components)
 
----
 
-### 🛠 Tools
+## 🛠 Tools
 
----
 
-### 🍴 Forked
+## 🍴 Forked
 
 - [eleventy-plugin-social-images](https://github.com/giuliachiola/eleventy-plugin-social-images) 
 - [ohmyzsh](https://github.com/giuliachiola/ohmyzsh)
 - [vue-storefront](https://github.com/giuliachiola/vue-storefront)
 
----
 
-### 📒 Learning from tutorials
+## 📒 Learning from tutorials
 
-#### VueJS
+### VueJS
 
-##### Nuxt
+#### Nuxt
 
 - [itunes-nuxt](https://github.com/giuliachiola/itunes-nuxt)
 
