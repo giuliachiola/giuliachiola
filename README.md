@@ -1,4 +1,10 @@
-# Hey! Welcome to my GitHub 👋
+# Hey! Welcome to my GitHub introduction page 👋
+
+I am porting my repositories from GitLab to GitHub, so it will populate with all the side-projects – which by definition – I have never finished 🙃
+
+![ol3jikdym2251](https://user-images.githubusercontent.com/31881246/123867629-e1814300-d92e-11eb-81c5-fab2d31b75e2.jpg)
+
+Follow me on Twitter [@giulia_chiola](https://twitter.com/giulia_chiola)
 
 # 👩🏻‍💻 My repositories
 
