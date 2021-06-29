@@ -12,6 +12,8 @@
 #### Other
 -->
 
+---
+
 ### 🛁 Boilerplates
 
 #### 11ty
@@ -23,15 +25,19 @@
 - (private) [patternlab-boilerplate](https://github.com/giuliachiola/patternlab-boilerplate)
 - (private) [patternlab-default-components](https://github.com/giuliachiola/patternlab-default-components)
 
+---
 
 ### 🛠 Tools
 
+---
 
 ### 🍴 Forked
 
 - [eleventy-plugin-social-images](https://github.com/giuliachiola/eleventy-plugin-social-images) 
 - [ohmyzsh](https://github.com/giuliachiola/ohmyzsh)
 - [vue-storefront](https://github.com/giuliachiola/vue-storefront)
+
+---
 
 ### 📒 Learning from tutorials
 
@@ -40,6 +46,8 @@
 ##### Nuxt
 
 - [itunes-nuxt](https://github.com/giuliachiola/itunes-nuxt)
+
+---
 
 <!--
 ### 👾 just for fun, quick and dirty
