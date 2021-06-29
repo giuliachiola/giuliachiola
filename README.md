@@ -10,11 +10,22 @@
 - (private) [super-notes](https://github.com/giuliachiola/super-notes) 
 <!-- 
 #### Other
+-->
 
 ### 🛁 Boilerplates
 
+#### 11ty
+
+- (private) [eleventy-styleguide](https://github.com/giuliachiola/eleventy-styleguide)
+
+#### Pattern Lab
+
+- (private) [patternlab-boilerplate](https://github.com/giuliachiola/patternlab-boilerplate)
+- (private) [patternlab-default-components](https://github.com/giuliachiola/patternlab-default-components)
+
+
 ### 🛠 Tools
--->
+
 
 ### 🍴 Forked
 
