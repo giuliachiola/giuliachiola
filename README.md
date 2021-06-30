@@ -49,6 +49,10 @@ Follow me on Twitter [@giulia_chiola](https://twitter.com/giulia_chiola)
 
 - [itunes-nuxt](https://github.com/giuliachiola/itunes-nuxt)
 
+#### Greensock
+
+- [greensock-playground](https://github.com/giuliachiola/greensock-playground)
+
 ---
 
 <!--
