@@ -30,6 +30,9 @@ Follow me on Twitter [@giulia_chiola](https://twitter.com/giulia_chiola)
 - (private) [patternlab-boilerplate](https://github.com/giuliachiola/patternlab-boilerplate)
 - (private) [patternlab-default-components](https://github.com/giuliachiola/patternlab-default-components)
 
+### VueJS
+
+- (private) [vue-boilerplate](https://github.com/giuliachiola/vue-boilerplate)
 
 ## 🛠 Tools
 
