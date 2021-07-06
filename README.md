@@ -6,7 +6,13 @@ I am porting my repositories from GitLab to GitHub, so it will populate with all
 
 Follow me on Twitter [@giulia_chiola](https://twitter.com/giulia_chiola)
 
+<!--
+[![GiuliaChiola's GitHub stats](https://github-readme-stats.vercel.app/api?username=giuliachiola&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
 # 👩🏻‍💻 My repositories
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giuliachiola&hide=java,html,css&theme=outrun)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🚀 Side projects
 
