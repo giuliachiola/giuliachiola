@@ -1,8 +1,9 @@
-# Hey! Welcome to my GitHub introduction page 👋
+# Hey! Welcome to my GitHub introduction page <img width="30" alt="parrot party" src="https://cultofthepartyparrot.com/parrots/hd/shuffleparrot.gif">
 
 I am porting my repositories from GitLab to GitHub, so it will populate with all the side-projects – which by definition – I have never finished 🙃
 
 <img src="https://user-images.githubusercontent.com/31881246/123867629-e1814300-d92e-11eb-81c5-fab2d31b75e2.jpg" width="60%">
+
 
 Follow me on Twitter [@giulia_chiola](https://twitter.com/giulia_chiola)
 
