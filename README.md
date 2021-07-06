@@ -75,10 +75,16 @@ I am porting my repositories from GitLab to GitHub, so it will populate with all
 	<a href="https://twitter.com/giulia_chiola">
 		<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height="25">
 	</a>
-	<a href="https://www.linkedin.com/in/giuliachiola/">
+	<a href="https://gitlab.com/giuliachiola">
+		<img src="https://img.shields.io/badge/gitlab-%238C929D.svg?&style=for-the-badge&logo=gitlab&logoColor=white" height="25">
+	</a>
+	<a href="https://codepen.io/giuliachiola">
+		<img src="https://img.shields.io/badge/codepen-%231E1F25.svg?&style=for-the-badge&logo=codepen&logoColor=white" height="25">
+	</a>
+	<a href="https://www.linkedin.com/in/giuliachiola">
 		<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="25">
 	</a>
-	<a href="https://www.instagram.com/giulia_chiola/">
+	<a href="https://www.instagram.com/giulia_chiola">
 		<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height="25">
 	</a>
 </p>
