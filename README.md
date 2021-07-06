@@ -14,6 +14,7 @@ Follow me on Twitter [@giulia_chiola](https://twitter.com/giulia_chiola)
 
 - [super-blog-content](https://github.com/giuliachiola/super-blog-content)
 - (private) [super-notes](https://github.com/giuliachiola/super-notes) 
+- (private) [super-styleguide](https://github.com/giuliachiola/super-styleguide) 
 - [super-snippets](https://github.com/giuliachiola/super-snippets) 
 <!-- 
 #### Other
