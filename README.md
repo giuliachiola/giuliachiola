@@ -4,9 +4,6 @@ I am porting my repositories from GitLab to GitHub, so it will populate with all
 
 <img src="https://user-images.githubusercontent.com/31881246/123867629-e1814300-d92e-11eb-81c5-fab2d31b75e2.jpg" width="60%">
 
-
-Follow me on Twitter [@giulia_chiola](https://twitter.com/giulia_chiola)
-
 <!--
 [![GiuliaChiola's GitHub stats](https://github-readme-stats.vercel.app/api?username=giuliachiola&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 -->
@@ -73,6 +70,19 @@ Follow me on Twitter [@giulia_chiola](https://twitter.com/giulia_chiola)
 ### 👾 just for fun, quick and dirty
 -->
 
+<!-- SOCIALS -->
+<p align="center">
+	<a href="https://twitter.com/giulia_chiola">
+		<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height="25">
+	</a>
+	<a href="https://www.linkedin.com/in/giuliachiola/">
+		<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="25">
+	</a>
+	<a href="https://www.instagram.com/giulia_chiola/">
+		<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height="25">
+	</a>
+</p>
+
 
 <!--
 **giuliachiola/giuliachiola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -88,3 +98,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
