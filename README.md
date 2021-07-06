@@ -20,7 +20,8 @@ Follow me on Twitter [@giulia_chiola](https://twitter.com/giulia_chiola)
 
 #### Other
 
-- [recipes](https://github.com/giuliachiola/recipes) 
+- [recipes](https://github.com/giuliachiola/recipes)
+- [blog-sere-netlifycms](https://github.com/giuliachiola/blog-sere-netlifycms)
 
 ## 🛁 Boilerplates
 
