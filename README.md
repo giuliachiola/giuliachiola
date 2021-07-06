@@ -12,6 +12,7 @@ Follow me on Twitter [@giulia_chiola](https://twitter.com/giulia_chiola)
 
 ### Blog
 
+- [super-blog-11ty](https://github.com/giuliachiola/super-blog-11ty) 
 - [super-blog-content](https://github.com/giuliachiola/super-blog-content)
 - (private) [super-notes](https://github.com/giuliachiola/super-notes) 
 - (private) [super-styleguide](https://github.com/giuliachiola/super-styleguide) 
