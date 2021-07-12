@@ -29,6 +29,7 @@ I am porting my repositories from GitLab to GitHub, so it will populate with all
 - (private) [birthday-veronica-30][https://github.com/giuliachiola/birthday-veronica-30]
 - (private) [andre-graduation](https://github.com/giuliachiola/andre-graduation)
 - (private) [kero-happy-birthday-22](https://github.com/giuliachiola/kero-happy-birthday-22)
+- (private) [my-workout](https://github.com/giuliachiola/my-workout)
 
 ## 🛁 Boilerplates
 
