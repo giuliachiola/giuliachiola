@@ -26,11 +26,12 @@ I am porting my repositories from GitLab to GitHub, so it will populate with all
 
 - [recipes](https://github.com/giuliachiola/recipes)
 - [blog-sere-netlifycms](https://github.com/giuliachiola/blog-sere-netlifycms)
-- (private) [birthday-veronica-30][https://github.com/giuliachiola/birthday-veronica-30]
+- (private) [birthday-veronica-30](https://github.com/giuliachiola/birthday-veronica-30)
 - (private) [andre-graduation](https://github.com/giuliachiola/andre-graduation)
 - (private) [kero-happy-birthday-22](https://github.com/giuliachiola/kero-happy-birthday-22)
 - (private) [my-workout](https://github.com/giuliachiola/my-workout)
 - (private) [my-garden](https://github.com/giuliachiola/my-garden)
+- (private) [dovesibutta](https://github.com/giuliachiola/dovesibutta)
 
 ## 🛁 Boilerplates
 
@@ -46,6 +47,11 @@ I am porting my repositories from GitLab to GitHub, so it will populate with all
 ### VueJS
 
 - (private) [vue-boilerplate](https://github.com/giuliachiola/vue-boilerplate)
+- (private) [vueproject-test](https://github.com/giuliachiola/vueproject-test)
+
+### Grav
+
+- (private) [grav-blog](https://github.com/giuliachiola/grav-blog) 
 
 ## 🛠 Tools
 
@@ -55,6 +61,7 @@ I am porting my repositories from GitLab to GitHub, so it will populate with all
 - [eleventy-plugin-social-images](https://github.com/giuliachiola/eleventy-plugin-social-images) 
 - [ohmyzsh](https://github.com/giuliachiola/ohmyzsh)
 - [vue-storefront](https://github.com/giuliachiola/vue-storefront)
+- [trello-to-pdf](https://github.com/giuliachiola/trello-to-pdf)
 
 
 ## 📒 Learning from tutorials
@@ -64,6 +71,10 @@ I am porting my repositories from GitLab to GitHub, so it will populate with all
 #### Nuxt
 
 - [itunes-nuxt](https://github.com/giuliachiola/itunes-nuxt)
+
+### 11ty
+
+- (private) [11ty-giffleball](https://github.com/giuliachiola/11ty-giffleball) 
 
 #### Greensock
 
