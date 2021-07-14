@@ -48,6 +48,7 @@ I am porting my repositories from GitLab to GitHub, so it will populate with all
 
 - (private) [vue-boilerplate](https://github.com/giuliachiola/vue-boilerplate)
 - (private) [vueproject-test](https://github.com/giuliachiola/vueproject-test)
+- (private) [vue-connectivity](https://github.com/giuliachiola/vue-connectivity)
 
 ### Grav
 
