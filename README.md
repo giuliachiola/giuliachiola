@@ -73,7 +73,7 @@ I am porting my repositories from GitLab to GitHub, so it will populate with all
 #### VueJS
 
 - [itunes-nuxt](https://github.com/giuliachiola/itunes-nuxt)
-
+- [strapi-deliveroo-tutorial](https://github.com/giuliachiola/strapi-deliveroo-tutorial)
 
 
 ### 11ty
