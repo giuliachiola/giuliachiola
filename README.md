@@ -66,11 +66,15 @@ I am porting my repositories from GitLab to GitHub, so it will populate with all
 
 ## 📒 Learning from tutorials
 
-### VueJS
+### ES6
 
-#### Nuxt
+- (private) [es6-syntax-brad-traversy](https://github.com/giuliachiola/es6-syntax-brad-traversy) 
+
+#### VueJS
 
 - [itunes-nuxt](https://github.com/giuliachiola/itunes-nuxt)
+
+
 
 ### 11ty
 
