@@ -34,6 +34,7 @@ Here there are my side-projects – which by definition – I have never finishe
 - (private) [my-workout](https://github.com/giuliachiola/my-workout)
 - (private) [my-garden](https://github.com/giuliachiola/my-garden)
 - (private) [dovesibutta](https://github.com/giuliachiola/dovesibutta)
+- (private) [svg-to-vue-component-project](https://github.com/giuliachiola/svg-to-vue-component-project)
 
 ## 🛁 Boilerplates
 
