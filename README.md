@@ -35,6 +35,7 @@ Here there are my side-projects – which by definition – I have never finishe
 - (private) [my-garden](https://github.com/giuliachiola/my-garden)
 - (private) [dovesibutta](https://github.com/giuliachiola/dovesibutta)
 - (private) [svg-to-vue-component-project](https://github.com/giuliachiola/svg-to-vue-component-project)
+- (private) [nuxt-recipes](https://github.com/giuliachiola/nuxt-recipes)
 
 ## 🛁 Boilerplates
 
