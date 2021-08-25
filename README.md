@@ -43,10 +43,13 @@ Here there are my side-projects – which by definition – I have never finishe
 
 - (private) [eleventy-styleguide](https://github.com/giuliachiola/eleventy-styleguide)
 
-### Pattern Lab
+### Pattern Libraries
 
 - (private) [patternlab-boilerplate](https://github.com/giuliachiola/patternlab-boilerplate)
 - (private) [patternlab-default-components](https://github.com/giuliachiola/patternlab-default-components)
+<!--
+- (private) [fractal-boilerplate](https://github.com/giuliachiola/fractal-boilerplate)
+-->
 
 ### VueJS
 
@@ -113,20 +116,3 @@ Here there are my side-projects – which by definition – I have never finishe
 		<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height="25">
 	</a>
 </p>
-
-
-<!--
-**giuliachiola/giuliachiola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
