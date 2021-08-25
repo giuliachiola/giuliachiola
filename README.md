@@ -26,7 +26,7 @@ Here there are my side-projects – which by definition – I have never finishe
 
 #### Other
 
-- [recipes](https://github.com/giuliachiola/recipes)
+- [recipes (⚠️ WIP)](https://github.com/giuliachiola/recipes)
 - [blog-sere-netlifycms](https://github.com/giuliachiola/blog-sere-netlifycms)
 - (private) [birthday-veronica-30](https://github.com/giuliachiola/birthday-veronica-30)
 - (private) [andre-graduation](https://github.com/giuliachiola/andre-graduation)
