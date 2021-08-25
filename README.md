@@ -20,7 +20,7 @@ Here there are my side-projects – which by definition – I have never finishe
 
 - [super-blog-11ty](https://github.com/giuliachiola/super-blog-11ty) 
 - [super-blog-content](https://github.com/giuliachiola/super-blog-content)
-- (private) [super-notes](https://github.com/giuliachiola/super-notes) 
+- [super-notes](https://github.com/giuliachiola/super-notes) 
 - [super-styleguide](https://github.com/giuliachiola/super-styleguide) 
 - [super-snippets](https://github.com/giuliachiola/super-snippets) 
 
