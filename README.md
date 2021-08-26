@@ -94,9 +94,7 @@ Here there are my side-projects – which by definition – I have never finishe
 
 ---
 
-<!--
-### 👾 just for fun, quick and dirty
--->
+Notes: [projects README](https://github.com/giuliachiola/super-notes/blob/main/docs/git/project-readme.md)
 
 <!-- SOCIALS -->
 <p align="center">
