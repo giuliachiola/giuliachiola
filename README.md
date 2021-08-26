@@ -35,35 +35,35 @@ Here there are my side-projects – which by definition – I have never finishe
 - [kero-happy-birthday-22](https://github.com/giuliachiola/kero-happy-birthday-22)
 - [my-workout](https://github.com/giuliachiola/my-workout) (stale)
 - [my-garden](https://github.com/giuliachiola/my-garden)* (stale, not building)
-- [recycling](https://github.com/giuliachiola/dovesibutta)
+- [recycling](https://github.com/giuliachiola/dovesibutta) (stale)
 
 ## 🛁 Boilerplates
 
 ### 11ty
 
-- (private) [eleventy-styleguide](https://github.com/giuliachiola/eleventy-styleguide)
+- [eleventy-styleguide](https://github.com/giuliachiola/eleventy-styleguide)*
 
 ### Pattern Libraries
 
-- (private) [patternlab-boilerplate](https://github.com/giuliachiola/patternlab-boilerplate)
-- (private) [patternlab-default-components](https://github.com/giuliachiola/patternlab-default-components)
+- [patternlab-boilerplate](https://github.com/giuliachiola/patternlab-boilerplate)*
+- [patternlab-default-components](https://github.com/giuliachiola/patternlab-default-components)*
 <!--
 - (private) [fractal-boilerplate](https://github.com/giuliachiola/fractal-boilerplate)
 -->
 
 ### VueJS
 
-- (private) [vue-boilerplate](https://github.com/giuliachiola/vue-boilerplate)
-- (private) [vueproject-test](https://github.com/giuliachiola/vueproject-test)
-- (private) [vue-connectivity](https://github.com/giuliachiola/vue-connectivity)
+- [vue-boilerplate](https://github.com/giuliachiola/vue-boilerplate)*
+- [vueproject-test](https://github.com/giuliachiola/vueproject-test)*
+- [vue-connectivity](https://github.com/giuliachiola/vue-connectivity)*
 
 ### Grav
 
-- (private) [grav-blog](https://github.com/giuliachiola/grav-blog) 
+- [grav-blog](https://github.com/giuliachiola/grav-blog)*
 
 ## 🛠 Tools
 
-- (private) [svg-to-vue-component-project](https://github.com/giuliachiola/svg-to-vue-component-project)
+- [svg-to-vue-component-project](https://github.com/giuliachiola/svg-to-vue-component-project)*
 
 ## 🍴 Forked
 
@@ -77,7 +77,7 @@ Here there are my side-projects – which by definition – I have never finishe
 
 ### ES6
 
-- (private) [es6-syntax-brad-traversy](https://github.com/giuliachiola/es6-syntax-brad-traversy) 
+- [es6-syntax-brad-traversy](https://github.com/giuliachiola/es6-syntax-brad-traversy)*
 
 #### VueJS
 
@@ -87,7 +87,7 @@ Here there are my side-projects – which by definition – I have never finishe
 
 ### 11ty
 
-- (private) [11ty-giffleball](https://github.com/giuliachiola/11ty-giffleball) 
+- [11ty-giffleball](https://github.com/giuliachiola/11ty-giffleball)*
 
 #### Greensock
 
