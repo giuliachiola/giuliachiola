@@ -32,8 +32,8 @@ Here there are my side-projects – which by definition – I have never finishe
 - (private) [andre-graduation](https://github.com/giuliachiola/andre-graduation)
 - [kero-happy-birthday-22](https://github.com/giuliachiola/kero-happy-birthday-22)
 - [my-workout](https://github.com/giuliachiola/my-workout)*
-- (private) [my-garden](https://github.com/giuliachiola/my-garden)*
-- (private) [dovesibutta](https://github.com/giuliachiola/dovesibutta)
+- (private) [my-garden](https://github.com/giuliachiola/my-garden)* (not building)
+- (private) [recycling](https://github.com/giuliachiola/dovesibutta)
 
 `*` = WIP/stale
 
