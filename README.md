@@ -16,6 +16,8 @@ Here there are my side-projects – which by definition – I have never finishe
 
 ## 🚀 Side projects
 
+`*` = private repo
+
 ### Blog
 
 - [super-blog-11ty](https://github.com/giuliachiola/super-blog-11ty) 
@@ -26,16 +28,14 @@ Here there are my side-projects – which by definition – I have never finishe
 
 #### Other
 
-- [recipes](https://github.com/giuliachiola/recipes)*
+- [recipes](https://github.com/giuliachiola/recipes) (WIP)
 - [blog-sere-netlifycms](https://github.com/giuliachiola/blog-sere-netlifycms)
 - [birthday-veronica-30](https://github.com/giuliachiola/birthday-veronica-30)
-- (private) [andre-graduation](https://github.com/giuliachiola/andre-graduation)
+- [andre-graduation](https://github.com/giuliachiola/andre-graduation)*
 - [kero-happy-birthday-22](https://github.com/giuliachiola/kero-happy-birthday-22)
-- [my-workout](https://github.com/giuliachiola/my-workout)*
-- (private) [my-garden](https://github.com/giuliachiola/my-garden)* (not building)
-- (private) [recycling](https://github.com/giuliachiola/dovesibutta)
-
-`*` = WIP/stale
+- [my-workout](https://github.com/giuliachiola/my-workout) (stale)
+- [my-garden](https://github.com/giuliachiola/my-garden)* (stale, not building)
+- [recycling](https://github.com/giuliachiola/dovesibutta)
 
 ## 🛁 Boilerplates
 
