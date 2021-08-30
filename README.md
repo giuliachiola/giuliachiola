@@ -37,7 +37,7 @@ Here there are my side-projects – which by definition – I have never finishe
 - [my-garden](https://github.com/giuliachiola/my-garden)* (stale, not building)
 - [recycling](https://github.com/giuliachiola/dovesibutta) (stale)
 
-## 🛁 Boilerplates
+## 🛠  Boilerplates and tools
 
 ### 11ty
 
@@ -56,14 +56,11 @@ Here there are my side-projects – which by definition – I have never finishe
 - [vue-boilerplate](https://github.com/giuliachiola/vue-boilerplate)*
 - [vueproject-test](https://github.com/giuliachiola/vueproject-test)*
 - [vue-connectivity](https://github.com/giuliachiola/vue-connectivity)*
+- [svg-to-vue-component-project](https://github.com/giuliachiola/svg-to-vue-component-project)*
 
 ### Grav
 
 - [grav-blog](https://github.com/giuliachiola/grav-blog)*
-
-## 🛠 Tools
-
-- [svg-to-vue-component-project](https://github.com/giuliachiola/svg-to-vue-component-project)*
 
 ## 🍴 Forked
 
