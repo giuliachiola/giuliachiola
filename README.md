@@ -41,10 +41,11 @@ Here there are my side-projects – which by definition – I have never finishe
 
 ### 11ty
 
-- [eleventy-styleguide](https://github.com/giuliachiola/eleventy-styleguide)*
+- [eleventy-styleguide](https://github.com/giuliachiola/eleventy-styleguide)
 
 ### Pattern Libraries
 
+<!-- 🚨🚨🚨🚨🚨🚨🚨 TODO check + readme -->
 - [patternlab-boilerplate](https://github.com/giuliachiola/patternlab-boilerplate)*
 - [patternlab-default-components](https://github.com/giuliachiola/patternlab-default-components)*
 <!--
