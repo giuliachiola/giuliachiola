@@ -86,6 +86,7 @@ Here there are my side-projects – which by definition – I have never finishe
 #### React
 
 - [react-todo-list](https://github.com/giuliachiola/react-todo-list)
+- [react-pokemon-app](https://github.com/giuliachiola/react-pokemon-app)
 
 ### 11ty
 
