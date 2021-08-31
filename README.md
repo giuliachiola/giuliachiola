@@ -85,7 +85,7 @@ Here there are my side-projects – which by definition – I have never finishe
 
 #### React
 
-- [react-todo-list](https://github.com/giuliachiola/react-todo-list)*
+- [react-todo-list](https://github.com/giuliachiola/react-todo-list)
 
 ### 11ty
 
