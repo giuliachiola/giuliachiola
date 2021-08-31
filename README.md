@@ -80,12 +80,12 @@ Here there are my side-projects – which by definition – I have never finishe
 #### VueJS
 
 - [itunes-nuxt](https://github.com/giuliachiola/itunes-nuxt)
-- [strapi-deliveroo-tutorial](https://github.com/giuliachiola/strapi-deliveroo-tutorial)
-- [nuxt-recipes](https://github.com/giuliachiola/nuxt-recipes)
+- [strapi-deliveroo-tutorial](https://github.com/giuliachiola/strapi-deliveroo-tutorial)*
+- [nuxt-recipes](https://github.com/giuliachiola/nuxt-recipes)*
 
 #### React
 
-- [react-todo-list](https://github.com/giuliachiola/react-todo-list)
+- [react-todo-list](https://github.com/giuliachiola/react-todo-list)*
 
 ### 11ty
 
