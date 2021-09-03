@@ -66,15 +66,7 @@ Here there are my side-projects – which by definition – I have never finishe
 
 ### Grav
 
-- [grav-blog](https://github.com/giuliachiola/grav-blog)*
-
-## 🍴 Forked
-
-- [eleventy-plugin-social-images](https://github.com/giuliachiola/eleventy-plugin-social-images) 
-- [ohmyzsh](https://github.com/giuliachiola/ohmyzsh)
-- [vue-storefront](https://github.com/giuliachiola/vue-storefront)
-- [trello-to-pdf](https://github.com/giuliachiola/trello-to-pdf)
-
+- [grav-blog](https://github.com/giuliachiola/grav-blog)* (stale, not building)
 
 ## 📒 Learning from tutorials
 
@@ -100,6 +92,15 @@ Here there are my side-projects – which by definition – I have never finishe
 ### Greensock
 
 - [greensock-playground](https://github.com/giuliachiola/greensock-playground)
+
+
+## 🍴 Forked
+
+- [eleventy-plugin-social-images](https://github.com/giuliachiola/eleventy-plugin-social-images) 
+- [ohmyzsh](https://github.com/giuliachiola/ohmyzsh)
+- [trello-to-pdf](https://github.com/giuliachiola/trello-to-pdf)
+- [vue-storefront](https://github.com/giuliachiola/vue-storefront)
+
 
 ---------
 
