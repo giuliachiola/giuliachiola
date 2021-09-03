@@ -31,13 +31,18 @@ Here there are my side-projects – which by definition – I have never finishe
 - [recipes](https://github.com/giuliachiola/recipes) (WIP)
 - [blog-sere-netlifycms](https://github.com/giuliachiola/blog-sere-netlifycms)
 - [birthday-veronica-30](https://github.com/giuliachiola/birthday-veronica-30)
-- [andre-graduation](https://github.com/giuliachiola/andre-graduation)*
+<!-- - [andre-graduation](https://github.com/giuliachiola/andre-graduation)* -->
 - [kero-happy-birthday-22](https://github.com/giuliachiola/kero-happy-birthday-22)
 - [my-workout](https://github.com/giuliachiola/my-workout) (stale)
 - [my-garden](https://github.com/giuliachiola/my-garden)* (stale, not building)
 - [recycling](https://github.com/giuliachiola/dovesibutta) (stale)
 
 ## 🛠  Boilerplates and tools
+
+### Config
+
+- [dotfiles](https://github.com/giuliachiola/dotfiles)
+- [projects README](https://github.com/giuliachiola/super-notes/blob/main/docs/git/project-readme.md)
 
 ### 11ty
 
@@ -49,7 +54,7 @@ Here there are my side-projects – which by definition – I have never finishe
 - [patternlab-boilerplate](https://github.com/giuliachiola/patternlab-boilerplate)*
 - [patternlab-default-components](https://github.com/giuliachiola/patternlab-default-components)*
 <!--
-- (private) [fractal-boilerplate](https://github.com/giuliachiola/fractal-boilerplate)
+- [fractal-boilerplate](https://github.com/giuliachiola/fractal-boilerplate)*
 -->
 
 ### VueJS
@@ -77,13 +82,13 @@ Here there are my side-projects – which by definition – I have never finishe
 
 - [es6-syntax-brad-traversy](https://github.com/giuliachiola/es6-syntax-brad-traversy)*
 
-#### VueJS
+### VueJS
 
 - [itunes-nuxt](https://github.com/giuliachiola/itunes-nuxt)
 - [strapi-deliveroo-tutorial](https://github.com/giuliachiola/strapi-deliveroo-tutorial)*
 - [nuxt-recipes](https://github.com/giuliachiola/nuxt-recipes)*
 
-#### React
+### React
 
 - [react-todo-list](https://github.com/giuliachiola/react-todo-list)
 - [react-pokemon-app](https://github.com/giuliachiola/react-pokemon-app)
@@ -92,13 +97,11 @@ Here there are my side-projects – which by definition – I have never finishe
 
 - [11ty-giffleball](https://github.com/giuliachiola/11ty-giffleball)*
 
-#### Greensock
+### Greensock
 
 - [greensock-playground](https://github.com/giuliachiola/greensock-playground)
 
----
-
-Notes: [projects README](https://github.com/giuliachiola/super-notes/blob/main/docs/git/project-readme.md)
+---------
 
 <!-- SOCIALS -->
 <p align="center">
