@@ -80,8 +80,8 @@ Here there are my side-projects – which by definition – I have never finishe
 
 - [itunes-nuxt](https://github.com/giuliachiola/itunes-nuxt)
 - [strapi-deliveroo-tutorial](https://github.com/giuliachiola/strapi-deliveroo-tutorial)* <!--❓ -->
-- [nuxt-recipes](https://github.com/giuliachiola/nuxt-recipes)* <!--❓ -->
-- [vue-connectivity](https://github.com/giuliachiola/vue-connectivity) <!--❓ -->
+- [nuxt-recipes](https://github.com/giuliachiola/nuxt-recipes)
+- [vue-connectivity](https://github.com/giuliachiola/vue-connectivity)
 
 
 ### React
