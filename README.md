@@ -79,7 +79,7 @@ Here there are my side-projects – which by definition – I have never finishe
 ### VueJS
 
 - [itunes-nuxt](https://github.com/giuliachiola/itunes-nuxt)
-- [strapi-deliveroo-tutorial](https://github.com/giuliachiola/strapi-deliveroo-tutorial)* <!--❓ -->
+- [strapi-deliveroo-tutorial](https://github.com/giuliachiola/strapi-deliveroo-tutorial)
 - [nuxt-recipes](https://github.com/giuliachiola/nuxt-recipes)
 - [vue-connectivity](https://github.com/giuliachiola/vue-connectivity)
 
@@ -91,11 +91,11 @@ Here there are my side-projects – which by definition – I have never finishe
 
 ### 11ty
 
-- [11ty-giffleball](https://github.com/giuliachiola/11ty-giffleball)* <!--❓ -->
+- [11ty-giffleball](https://github.com/giuliachiola/11ty-giffleball)
 
 ### Greensock
 
-- [greensock-playground](https://github.com/giuliachiola/greensock-playground) <!--❓ -->
+- [greensock-playground](https://github.com/giuliachiola/greensock-playground)
 
 
 ## 🍴 Forked
