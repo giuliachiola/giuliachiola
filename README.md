@@ -42,7 +42,7 @@ Here there are my side-projects – which by definition – I have never finishe
 ### Config
 
 - [dotfiles](https://github.com/giuliachiola/dotfiles)
-- [projects README](https://github.com/giuliachiola/super-notes/blob/main/docs/git/project-readme.md)
+- [projects README](https://github.com/giuliachiola/super-notes/blob/main/src/docs/git/project-readme.md)
 
 ### 11ty
 
