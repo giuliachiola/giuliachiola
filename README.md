@@ -34,7 +34,7 @@ Here there are my side-projects – which by definition – I have never finishe
 <!-- - [andre-graduation](https://github.com/giuliachiola/andre-graduation)* -->
 - [kero-happy-birthday-22](https://github.com/giuliachiola/kero-happy-birthday-22)
 - [my-workout](https://github.com/giuliachiola/my-workout) (stale)
-- [my-garden](https://github.com/giuliachiola/my-garden)* (stale, not building)
+- [my-garden](https://github.com/giuliachiola/my-garden)* (not working at 09/2021)
 - [recycling](https://github.com/giuliachiola/dovesibutta) (stale)
 
 ## 🛠  Boilerplates and tools
@@ -51,14 +51,16 @@ Here there are my side-projects – which by definition – I have never finishe
 ### Pattern Libraries
 
 - [patternlab-boilerplate](https://github.com/giuliachiola/patternlab-boilerplate)*
-- [patternlab-default-components](https://github.com/giuliachiola/patternlab-default-components)*
+<!--
+- [patternlab-default-components](https://github.com/giuliachiola/patternlab-default-components)* (not working at 09/2021)
+-->
 <!--
 - [fractal-boilerplate](https://github.com/giuliachiola/fractal-boilerplate)*
 -->
 
 ### VueJS
 
-- [vue-boilerplate](https://github.com/giuliachiola/vue-boilerplate)*
+- [vue-boilerplate](https://github.com/giuliachiola/vue-boilerplate)* (not working at 09/2021)
 - [vueproject-test](https://github.com/giuliachiola/vueproject-test)*
 - [vue-connectivity](https://github.com/giuliachiola/vue-connectivity)*
 - [svg-to-vue-component-project](https://github.com/giuliachiola/svg-to-vue-component-project)*
