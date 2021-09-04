@@ -74,7 +74,7 @@ Here there are my side-projects – which by definition – I have never finishe
 
 ### ES6
 
-- [es6-syntax-brad-traversy](https://github.com/giuliachiola/es6-syntax-brad-traversy)* <!--❓ -->
+- [es6-syntax-brad-traversy](https://github.com/giuliachiola/es6-syntax-brad-traversy)
 
 ### VueJS
 
