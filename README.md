@@ -18,6 +18,8 @@ Here there are my side-projects – which by definition – I have never finishe
 
 `*` = private repo
 
+`/` = not working anymore
+
 ### Blog
 
 - [super-blog-11ty](https://github.com/giuliachiola/super-blog-11ty) 
@@ -34,7 +36,7 @@ Here there are my side-projects – which by definition – I have never finishe
 <!-- - [andre-graduation](https://github.com/giuliachiola/andre-graduation)* -->
 - [kero-happy-birthday-22](https://github.com/giuliachiola/kero-happy-birthday-22)
 - [my-workout](https://github.com/giuliachiola/my-workout) (stale)
-- [my-garden](https://github.com/giuliachiola/my-garden)* (not working)
+- [my-garden](https://github.com/giuliachiola/my-garden)*/
 - [recycling](https://github.com/giuliachiola/dovesibutta) (stale)
 
 ## 🛠  Boilerplates and tools
@@ -52,7 +54,7 @@ Here there are my side-projects – which by definition – I have never finishe
 
 - [patternlab-boilerplate](https://github.com/giuliachiola/patternlab-boilerplate)*
 <!--
-- [patternlab-default-components](https://github.com/giuliachiola/patternlab-default-components)* (not working at 09/2021)
+- [patternlab-default-components](https://github.com/giuliachiola/patternlab-default-components)*/
 -->
 <!--
 - [fractal-boilerplate](https://github.com/giuliachiola/fractal-boilerplate)*
@@ -60,26 +62,26 @@ Here there are my side-projects – which by definition – I have never finishe
 
 ### VueJS
 
-- [vue-boilerplate](https://github.com/giuliachiola/vue-boilerplate)* (not working)
+- [vue-boilerplate](https://github.com/giuliachiola/vue-boilerplate)*/
 - [vueproject-test](https://github.com/giuliachiola/vueproject-test)
-- <!--❓ -->[svg-to-vue-component-project](https://github.com/giuliachiola/svg-to-vue-component-project)*
+- [svg-to-vue-component-project](https://github.com/giuliachiola/svg-to-vue-component-project)* <!--❓ -->
 
 ### Grav
 
-- [grav-blog](https://github.com/giuliachiola/grav-blog)* (not working)
+- [grav-blog](https://github.com/giuliachiola/grav-blog)*/
 
 ## 📒 Learning from tutorials
 
 ### ES6
 
-- <!--❓ -->[es6-syntax-brad-traversy](https://github.com/giuliachiola/es6-syntax-brad-traversy)*
+- [es6-syntax-brad-traversy](https://github.com/giuliachiola/es6-syntax-brad-traversy)* <!--❓ -->
 
 ### VueJS
 
-- <!--❓ -->[itunes-nuxt](https://github.com/giuliachiola/itunes-nuxt)
-- <!--❓ -->[strapi-deliveroo-tutorial](https://github.com/giuliachiola/strapi-deliveroo-tutorial)*
-- <!--❓ -->[nuxt-recipes](https://github.com/giuliachiola/nuxt-recipes)*
-- <!--❓ -->[vue-connectivity](https://github.com/giuliachiola/vue-connectivity)
+- [itunes-nuxt](https://github.com/giuliachiola/itunes-nuxt) <!--❓ -->
+- [strapi-deliveroo-tutorial](https://github.com/giuliachiola/strapi-deliveroo-tutorial)* <!--❓ -->
+- [nuxt-recipes](https://github.com/giuliachiola/nuxt-recipes)* <!--❓ -->
+- [vue-connectivity](https://github.com/giuliachiola/vue-connectivity) <!--❓ -->
 
 
 ### React
@@ -89,11 +91,11 @@ Here there are my side-projects – which by definition – I have never finishe
 
 ### 11ty
 
-- <!--❓ -->[11ty-giffleball](https://github.com/giuliachiola/11ty-giffleball)*
+- [11ty-giffleball](https://github.com/giuliachiola/11ty-giffleball)* <!--❓ -->
 
 ### Greensock
 
-- <!--❓ -->[greensock-playground](https://github.com/giuliachiola/greensock-playground)
+- [greensock-playground](https://github.com/giuliachiola/greensock-playground) <!--❓ -->
 
 
 ## 🍴 Forked
