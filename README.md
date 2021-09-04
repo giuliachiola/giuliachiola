@@ -64,7 +64,7 @@ Here there are my side-projects – which by definition – I have never finishe
 
 - [vue-boilerplate](https://github.com/giuliachiola/vue-boilerplate)*/
 - [vueproject-test](https://github.com/giuliachiola/vueproject-test)
-- [svg-to-vue-component-project](https://github.com/giuliachiola/svg-to-vue-component-project)* <!--❓ -->
+- [svg-to-vue-component-project](https://github.com/giuliachiola/svg-to-vue-component-project)/
 
 ### Grav
 
