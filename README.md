@@ -50,7 +50,6 @@ Here there are my side-projects – which by definition – I have never finishe
 
 ### Pattern Libraries
 
-<!-- 🚨🚨🚨🚨🚨🚨🚨 TODO check + readme -->
 - [patternlab-boilerplate](https://github.com/giuliachiola/patternlab-boilerplate)*
 - [patternlab-default-components](https://github.com/giuliachiola/patternlab-default-components)*
 <!--
