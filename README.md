@@ -47,6 +47,8 @@ Here there are my side-projects – which by definition – I have never finishe
 - [mackup-preferences](https://github.com/giuliachiola/mackup-preferences)*
 - [projects README](https://github.com/giuliachiola/super-notes/blob/main/src/docs/git/project-readme.md)
 
+<!--
+
 ### 11ty
 
 - [eleventy-styleguide](https://github.com/giuliachiola/eleventy-styleguide)
@@ -54,10 +56,7 @@ Here there are my side-projects – which by definition – I have never finishe
 ### Pattern Libraries
 
 - [patternlab-boilerplate](https://github.com/giuliachiola/patternlab-boilerplate)*
-<!--
 - [patternlab-default-components](https://github.com/giuliachiola/patternlab-default-components)*/
--->
-<!--
 - [fractal-boilerplate](https://github.com/giuliachiola/fractal-boilerplate)*
 -->
 
