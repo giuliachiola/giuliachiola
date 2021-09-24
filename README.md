@@ -72,6 +72,13 @@ Here there are my side-projects – which by definition – I have never finishe
 
 ## 📒 Learning from tutorials
 
+### React
+
+- [react-todo-list](https://github.com/giuliachiola/react-todo-list)
+- [react-pokemon-app](https://github.com/giuliachiola/react-pokemon-app)
+- [react-meetup](https://github.com/giuliachiola/react-meetup)*
+- [typescript-course-beginners](https://github.com/giuliachiola/typescript-course-beginners)*
+
 ### ES6
 
 - [es6-syntax-brad-traversy](https://github.com/giuliachiola/es6-syntax-brad-traversy)
@@ -83,11 +90,6 @@ Here there are my side-projects – which by definition – I have never finishe
 - [nuxt-recipes](https://github.com/giuliachiola/nuxt-recipes)
 - [vue-connectivity](https://github.com/giuliachiola/vue-connectivity)
 
-
-### React
-
-- [react-todo-list](https://github.com/giuliachiola/react-todo-list)
-- [react-pokemon-app](https://github.com/giuliachiola/react-pokemon-app)
 
 ### 11ty
 
