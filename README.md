@@ -77,7 +77,7 @@ Here there are my side-projects – which by definition – I have never finishe
 - [react-todo-list](https://github.com/giuliachiola/react-todo-list)
 - [react-pokemon-app](https://github.com/giuliachiola/react-pokemon-app)
 - [react-meetup](https://github.com/giuliachiola/react-meetup)*
-- [typescript-course-beginners](https://github.com/giuliachiola/typescript-course-beginners)*
+- [typescript-course-beginners](https://github.com/giuliachiola/typescript-course-beginners)
 
 ### ES6
 
