@@ -70,6 +70,9 @@ Here there are my side-projects – which by definition – I have never finishe
 
 ## 📒 Learning from tutorials
 
+<details>
+    <summary>Projects list</summary>
+    
 ### React
 
 - [react-todo-list](https://github.com/giuliachiola/react-todo-list)
@@ -93,7 +96,6 @@ Here there are my side-projects – which by definition – I have never finishe
 - [nuxt-recipes](https://github.com/giuliachiola/nuxt-recipes)
 - [vue-connectivity](https://github.com/giuliachiola/vue-connectivity)
 
-
 ### 11ty
 
 - [11ty-giffleball](https://github.com/giuliachiola/11ty-giffleball)
@@ -102,14 +104,21 @@ Here there are my side-projects – which by definition – I have never finishe
 
 - [greensock-playground](https://github.com/giuliachiola/greensock-playground)
 
+</details>
+
 
 ## 🍴 Forked
+
+
+<details>
+    <summary>Projects list</summary>
 
 - [eleventy-plugin-social-images](https://github.com/giuliachiola/eleventy-plugin-social-images) 
 - [ohmyzsh](https://github.com/giuliachiola/ohmyzsh)
 - [trello-to-pdf](https://github.com/giuliachiola/trello-to-pdf)
 - [vue-storefront](https://github.com/giuliachiola/vue-storefront)
 
+</details>
 
 ---------
 
