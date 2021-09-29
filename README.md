@@ -80,6 +80,7 @@ Here there are my side-projects – which by definition – I have never finishe
 
 - [typescript-course-beginners](https://github.com/giuliachiola/typescript-course-beginners)
 - [typescript-crash-course-2021](https://github.com/giuliachiola/typescript-crash-course-2021)
+- [react-typescript-tutorial-weibenfalk](https://github.com/giuliachiola/react-typescript-tutorial-weibenfalk)
 
 ### ES6
 
