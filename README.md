@@ -85,6 +85,7 @@ Here there are my side-projects – which by definition – I have never finishe
 - [typescript-crash-course-2021](https://github.com/giuliachiola/typescript-crash-course-2021)
 - [react-typescript-tutorial-weibenfalk](https://github.com/giuliachiola/react-typescript-tutorial-weibenfalk)
 - [react-typescript-herrington](https://github.com/giuliachiola/react-typescript-herrington)
+- [react-ts-quiz-app](https://github.com/giuliachiola/react-ts-quiz-app)
 
 ### ES6
 
