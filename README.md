@@ -44,6 +44,7 @@ Here there are my side-projects – which by definition – I have never finishe
 - [dotfiles](https://github.com/giuliachiola/dotfiles)
 - [mackup-preferences](https://github.com/giuliachiola/mackup-preferences)*
 - [projects README](https://github.com/giuliachiola/super-notes/blob/main/src/docs/git/project-readme.md)
+- [dart-sass-setup](https://github.com/giuliachiola/dart-sass-setup)
 
 <!--
 
