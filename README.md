@@ -89,6 +89,7 @@ Here there are my side-projects – which by definition – I have never finishe
 - [react-ts-quiz-app](https://github.com/giuliachiola/react-ts-quiz-app)
 - [react-ts-invitations](https://github.com/giuliachiola/react-ts-invitations)
 - [react-movies](https://github.com/giuliachiola/react-movies)
+- [react-ts-ecommerce](https://github.com/giuliachiola/react-ts-ecommerce)
 
 ### ES6
 
