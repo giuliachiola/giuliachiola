@@ -24,7 +24,6 @@ Here there are my side-projects – which by definition – I have never finishe
 - [super-blog-content](https://github.com/giuliachiola/super-blog-content)
 - [super-notes](https://github.com/giuliachiola/super-notes) 
 - [super-styleguide](https://github.com/giuliachiola/super-styleguide) 
-- [super-snippets](https://github.com/giuliachiola/super-snippets) 
 
 #### Other
 
@@ -34,7 +33,6 @@ Here there are my side-projects – which by definition – I have never finishe
 <!-- - [andre-graduation](https://github.com/giuliachiola/andre-graduation)* -->
 - [kero-happy-birthday-22](https://github.com/giuliachiola/kero-happy-birthday-22)
 - [my-workout](https://github.com/giuliachiola/my-workout) (stale)
-- [my-garden](https://github.com/giuliachiola/my-garden)*/
 - [recycling](https://github.com/giuliachiola/dovesibutta) (stale)
 
 ## 🛠  Boilerplates and tools
