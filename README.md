@@ -30,10 +30,10 @@ Here there are my side-projects – which by definition – I have never finishe
 - [recipes](https://github.com/giuliachiola/recipes) (wip)
 - [blog-sere-netlifycms](https://github.com/giuliachiola/blog-sere-netlifycms)
 - [birthday-veronica-30](https://github.com/giuliachiola/birthday-veronica-30)
-<!-- - [andre-graduation](https://github.com/giuliachiola/andre-graduation)* -->
 - [kero-happy-birthday-22](https://github.com/giuliachiola/kero-happy-birthday-22)
 - [my-workout](https://github.com/giuliachiola/my-workout) (stale)
 - [recycling](https://github.com/giuliachiola/dovesibutta) (stale)
+<!-- - [andre-graduation](https://github.com/giuliachiola/andre-graduation) (private) -->
 
 ## 🛠  Boilerplates and tools
 
@@ -44,11 +44,11 @@ Here there are my side-projects – which by definition – I have never finishe
 - [projects README](https://github.com/giuliachiola/super-notes/blob/main/src/docs/git/project-readme.md)
 - [dart-sass-setup](https://github.com/giuliachiola/dart-sass-setup)
 
-<!--
-
 ### 11ty
 
 - [eleventy-styleguide](https://github.com/giuliachiola/eleventy-styleguide)
+
+<!--
 
 ### Pattern Libraries
 
