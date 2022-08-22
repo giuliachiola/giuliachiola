@@ -27,7 +27,7 @@ Here there are my side-projects – which by definition – I have never finishe
 
 #### Other
 
-- [recipes](https://github.com/giuliachiola/recipes) (WIP)
+- [recipes](https://github.com/giuliachiola/recipes) (wip)
 - [blog-sere-netlifycms](https://github.com/giuliachiola/blog-sere-netlifycms)
 - [birthday-veronica-30](https://github.com/giuliachiola/birthday-veronica-30)
 <!-- - [andre-graduation](https://github.com/giuliachiola/andre-graduation)* -->
@@ -40,7 +40,7 @@ Here there are my side-projects – which by definition – I have never finishe
 ### Config
 
 - [dotfiles](https://github.com/giuliachiola/dotfiles)
-- [mackup-preferences](https://github.com/giuliachiola/mackup-preferences)*
+- [mackup-preferences](https://github.com/giuliachiola/mackup-preferences) (private)
 - [projects README](https://github.com/giuliachiola/super-notes/blob/main/src/docs/git/project-readme.md)
 - [dart-sass-setup](https://github.com/giuliachiola/dart-sass-setup)
 
@@ -59,13 +59,13 @@ Here there are my side-projects – which by definition – I have never finishe
 
 ### VueJS
 
-- [vue-boilerplate](https://github.com/giuliachiola/vue-boilerplate)*/
+- [vue-boilerplate](https://github.com/giuliachiola/vue-boilerplate) (private, stale)
 - [vueproject-test](https://github.com/giuliachiola/vueproject-test)
 - [svg-to-vue-component-project](https://github.com/giuliachiola/svg-to-vue-component-project)/
 
 ### Grav
 
-- [grav-blog](https://github.com/giuliachiola/grav-blog)*/
+- [grav-blog](https://github.com/giuliachiola/grav-blog) (private, stale)
 
 ## 📒 Learning from tutorials
 
