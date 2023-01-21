@@ -128,6 +128,9 @@ Here there are my side-projects – which by definition – I have never finishe
 
 <!-- SOCIALS -->
 <p align="center">
+	<a href="https://giuliachiola.dev/">
+		<img src="https://img.shields.io/badge/blog-%23ef476f.svg?&style=for-the-badge&logo=blog&logoColor=#ef476f" height="25">
+	</a>
 	<a href="https://twitter.com/giulia_chiola">
 		<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height="25">
 	</a>
