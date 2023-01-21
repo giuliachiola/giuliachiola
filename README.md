@@ -131,9 +131,6 @@ Here there are my side-projects – which by definition – I have never finishe
 	<a href="https://twitter.com/giulia_chiola">
 		<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height="25">
 	</a>
-	<a href="https://gitlab.com/giuliachiola">
-		<img src="https://img.shields.io/badge/gitlab-%238C929D.svg?&style=for-the-badge&logo=gitlab&logoColor=white" height="25">
-	</a>
 	<a href="https://codepen.io/giuliachiola">
 		<img src="https://img.shields.io/badge/codepen-%231E1F25.svg?&style=for-the-badge&logo=codepen&logoColor=white" height="25">
 	</a>
